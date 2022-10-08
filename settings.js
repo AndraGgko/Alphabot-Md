@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'JIvNA7o4',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -26,24 +26,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Ramaa BotZz - MD" //namabot kalian
-global.ownername= "•𝙍𝙖𝙢𝙖𝙖` 𝙆𝙚𝙩𝙘𝙝𝙚" //nama kalian
-global.myweb ="https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
-global.myweb2 = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas
+global.botname = "Andra BOT 2" //namabot kalian
+global.ownername= "Andra Hafi ( owner )" //nama kalian
+global.myweb ="https://www.instagram.com/andra_aditya07?r=nametag" //bebas asal jan hapus
+global.youtube = "https://www.instagram.com/andra_aditya07?r=nametag" //bebas asal jan hapus
+global.myweb2 = "https://www.instagram.com/andra_aditya07?r=nametag" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285791220179'] //premium user
-global.owner = ["6285791220179","6285806240904"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285791220179" // nomor wa kalian
-global.ownernomerr = "+6285791220179" //nmr wa kalian
+global.owner = ["6289502638467","6289502638467"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6289502638467" // nomor wa kalian
+global.ownernomerr = "+6289502638467" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Ramaaaaa' //sticker wm ubah
-global.author = 'BUAT STIKER DOANG KAGA SEWA🤭' //sticker wm ganti nama kalian
+global.packname = '© Andraaa' //sticker wm ubah
+global.author = 'Bot paling gg🤭' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
